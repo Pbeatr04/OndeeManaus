@@ -16,3 +16,7 @@ Projeto de interface web com telas de login, cadastro e escolha, desenvolvido co
 
 ## Objetivo
 Praticar desenvolvimento front-end, estrutura de páginas, estilização e interação com JavaScript.
+
+## Licença
+Este projeto está sob a licença MIT.
+
