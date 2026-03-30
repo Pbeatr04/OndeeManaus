@@ -1,6 +1,10 @@
 # OndeeManaus
 
-Projeto de interface web com telas de login, cadastro e escolha, desenvolvido com HTML, CSS e JavaScript.
+# Projeto Web – Sistema de Login e Cadastro
+Desenvolvimento de interface web com HTML, CSS e JavaScript
+Implementação de telas de autenticação (login e cadastro)
+Estruturação de fluxo de navegação entre páginas
+Projeto publicado no GitHub
 
 ## Tecnologias usadas
 - HTML
